@@ -1,4 +1,4 @@
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
+## Greetings
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrbrandao/codelife/refs/heads/master/gif/codelive-06-25.gif" alt="Code Life" width="600">
@@ -23,6 +23,4 @@ Feel free to reach out through GitHub or contribute to any of my projects!
 
 ## 🐰 Follow the Rabbit
 
-_Are you someone who are looking to really reach out? follow the rabbit:_
-
-</div>
+_Are you someone who are looking to really reach out? follow the rabbit_
