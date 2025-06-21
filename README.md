@@ -1,6 +1,4 @@
-# Hi there 👋 I'm MrBrandao
-
-## About Me
+# Hi!
 
 I'm a long life learner, who enjoys to have a deep understanding of how things work, specially when it's related to computers, eletronics and networks.
 I also do like preserving and restoring digital art and old eletronic devices through open-source projects. 
@@ -21,7 +19,8 @@ Feel free to reach out through GitHub or contribute to any of my projects!
 
 ## 🐰 Follow the Rabbit
 
-Are you someone who are looking to really reach out? follow the rabbit:
+_Are you someone who are looking to really reach out? follow the rabbit:_
+
 ---
 
 ![Code Life](https://raw.githubusercontent.com/mrbrandao/codelife/refs/heads/master/gif/codelive-06-25.gif)
