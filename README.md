@@ -1,4 +1,8 @@
-# Hi!
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrbrandao/codelife/refs/heads/master/gif/codelive-06-25.gif" alt="Code Life" width="600">
+</p>
 
 I'm a long life learner, who enjoys to have a deep understanding of how things work, specially when it's related to computers, eletronics and networks.
 I also do like preserving and restoring digital art and old eletronic devices through open-source projects. 
@@ -21,6 +25,4 @@ Feel free to reach out through GitHub or contribute to any of my projects!
 
 _Are you someone who are looking to really reach out? follow the rabbit:_
 
----
-
-![Code Life](https://raw.githubusercontent.com/mrbrandao/codelife/refs/heads/master/gif/codelive-06-25.gif)
+</div>
