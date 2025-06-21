@@ -1,4 +1,4 @@
-## Greetings
+# Greetings
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrbrandao/codelife/refs/heads/master/gif/codelive-06-25.gif" alt="Code Life" width="600">
